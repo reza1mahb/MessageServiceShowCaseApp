@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository contains a simple Message Service dApp that serves as a bridge between Ethereum equivalent chains. The dApp allows you to create and store messages on a source chain and verify their inclusion on a destination chain using Merkle proofs. This forms the fundamental basis of a bridge application.
+This repository contains a simple Message Service dApp that serves as a bridge between Ethereum equivalent chains. The dApp allows you to create and store messages on a source chain and verify their inclusion on a destination chain using Merkle proofs. This lays down the core principles of a bridge application but not at all a production ready Bridge (!!!) - educational material only.
 
 ## Working Behavior
 
